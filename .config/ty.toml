@@ -1,0 +1,2 @@
+[environment]
+extra-paths = ["~/.local/lib/python3.14/site-packages/"]
